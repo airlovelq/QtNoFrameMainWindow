@@ -1,1 +1,3 @@
 # QtNoFrameMainWindow
+
+派生自QMainWindow的无边框窗口，可实现鼠标拖动放置与改变大小
